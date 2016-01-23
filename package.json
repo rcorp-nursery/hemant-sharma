@@ -1,0 +1,23 @@
+{
+  "name": "hemant-sharma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "json.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcorp-nursery/hemant-sharma.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcorp-nursery/hemant-sharma/issues"
+  },
+  "homepage": "https://github.com/rcorp-nursery/hemant-sharma#readme"
+}
